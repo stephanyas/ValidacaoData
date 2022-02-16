@@ -1,0 +1,14 @@
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\bin\Debug\netcoreapp3.1\ValidacaoData.exe
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\bin\Debug\netcoreapp3.1\ValidacaoData.deps.json
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\bin\Debug\netcoreapp3.1\ValidacaoData.runtimeconfig.json
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\bin\Debug\netcoreapp3.1\ValidacaoData.runtimeconfig.dev.json
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\bin\Debug\netcoreapp3.1\ValidacaoData.dll
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\bin\Debug\netcoreapp3.1\ValidacaoData.pdb
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.csproj.AssemblyReference.cache
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.AssemblyInfoInputs.cache
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.AssemblyInfo.cs
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.csproj.CoreCompileInputs.cache
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.dll
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.pdb
+D:\Stephany\Repositorio\ValidacaoData\ValidacaoData\obj\Debug\netcoreapp3.1\ValidacaoData.genruntimeconfig.cache
